@@ -1,0 +1,38 @@
+
+body{
+	background: rgb(219,226,226);
+}
+.row{
+	background: white;
+	border-radius: 30px;
+	box-shadow: 12px 12px 12px grey;
+}
+img{
+	border-top-left-radius: 30px;
+	border-bottom-left-radius: 30px;
+}
+
+.btn1{
+	border: none;
+	outline: none;
+	height: 50px;
+	width: 50%;
+	background-color: rgb(0, 135, 225);
+	color: white;
+	border-radius: 30px;
+	font-weight: bold;
+	font-size: 18px;
+}
+.btn1:hover{
+	background: white;
+	border: 1px solid;
+	color: black;
+}
+
+a{
+	text-decoration: none;
+	margin-left: 8px;
+}
+a:hover{
+	text-decoration: underline;
+}
